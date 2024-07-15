@@ -47,7 +47,7 @@
 
 - `JAVA 17`
 - `IntelliJ`
-- `Insomnia`
+- `JWT (JSON Web Tokens)`
 - `Mysql`
   
 <H7 align="left" id="personas-desarrolladores">PERSONAS DESARROLLADORAS DEL PROYECTO<H7>
