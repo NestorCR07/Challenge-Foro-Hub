@@ -41,13 +41,15 @@
 <p>
  Puede acceder al proyecto y descargarlo desde mi repositorio en GITHUB.
 </p>
-<link>https://github.com/NestorCR07/Challenge-conversor-de-monedas.git</link>
+<link>https://github.com/NestorCR07/Challenge-Foro-Hub.git</link>
 
 <H6 align="left" id="tecnologías-utilizadas">TECNOLOGIAS UTILIZADAS<H6>
 
-- `JAVA 21`
+- `JAVA 17`
 - `IntelliJ`
-
+- `Insomnia`
+- `Mysql`
+  
 <H7 align="left" id="personas-desarrolladores">PERSONAS DESARROLLADORAS DEL PROYECTO<H7>
 
 [<img src="https://avatars2.githubusercontent.com/u/91089582" width=115><br><sub>Nestor Carrasco</sub>](https://github.com/NestorCR07)
